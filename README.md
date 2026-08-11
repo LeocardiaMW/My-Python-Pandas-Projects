@@ -246,6 +246,8 @@ These findings demonstrated how Pandas can be used to support operational and st
 
 This Python Pandas project strengthened my ability to work with real-world retail and sales data throughout the complete analytics lifecycle. By using filtering techniques, `.loc[]` and `.iloc[]` indexing, aggregation methods such as `groupby()`, data cleaning functions including `dropna()` and `fillna()`, and data visualizations with Pandas and Matplotlib, I gained practical experience in transforming raw data into meaningful insights and reports. The project provided a solid foundation in data analysis, data preparation, and business intelligence using Python.
 
+<img width="660" height="250" alt="image" src="https://github.com/user-attachments/assets/d78721c6-8362-4f90-9780-1b66fdf4bb01" />
+
 <img width="695" height="84" alt="image" src="https://github.com/user-attachments/assets/98f185a7-6aac-4601-88c4-974682ce2f56" />
 
 <img width="473" height="266" alt="image" src="https://github.com/user-attachments/assets/a3630797-6342-4555-bbce-e9b73bb9b89f" />
