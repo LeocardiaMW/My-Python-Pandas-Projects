@@ -70,6 +70,10 @@ df.loc[df["Region"] == "North", ["Product", "Sales"]]
 
 This enabled efficient retrieval of relevant records and columns for reporting and investigation.
 
+<img width="857" height="122" alt="image" src="https://github.com/user-attachments/assets/bf8dd9cd-5926-4843-99e8-4940f5f06d3d" />
+
+
+
 ---
 
 ### Data Selection with `.iloc[]`
