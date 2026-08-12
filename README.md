@@ -238,7 +238,6 @@ Analysis revealed valuable information such as:
 - Regions generating the highest sales revenue
 - Seasonal sales patterns and trends
 - Customer groups contributing most to revenue
-- Areas requiring inventory or marketing attention
 
 These findings demonstrated how Pandas can be used to support operational and strategic business decisions.
 
@@ -246,10 +245,11 @@ These findings demonstrated how Pandas can be used to support operational and st
 
 This Python Pandas project strengthened my ability to work with real-world retail and sales data throughout the complete analytics lifecycle. By using filtering techniques, `.loc[]` and `.iloc[]` indexing, aggregation methods such as `groupby()`, data cleaning functions including `dropna()` and `fillna()`, and data visualizations with Pandas and Matplotlib, I gained practical experience in transforming raw data into meaningful insights and reports. The project provided a solid foundation in data analysis, data preparation, and business intelligence using Python.
 
-<img width="660" height="250" alt="image" src="https://github.com/user-attachments/assets/d78721c6-8362-4f90-9780-1b66fdf4bb01" />
+## Examples of codes and outputs
 
-<img width="695" height="84" alt="image" src="https://github.com/user-attachments/assets/98f185a7-6aac-4601-88c4-974682ce2f56" />
+<img width="874" height="240" alt="image" src="https://github.com/user-attachments/assets/d96d2783-cb0a-4d93-bb22-d15660356d67" />
 
-<img width="473" height="266" alt="image" src="https://github.com/user-attachments/assets/a3630797-6342-4555-bbce-e9b73bb9b89f" />
+<img width="868" height="241" alt="image" src="https://github.com/user-attachments/assets/514a9bfe-cd1f-4d8a-a36e-1bc0010f9c51" />
 
-<img width="649" height="86" alt="image" src="https://github.com/user-attachments/assets/4e7f34c5-8a9c-40a1-8e2e-5734d769cc14" />
+<img width="869" height="251" alt="image" src="https://github.com/user-attachments/assets/91c13e2d-b6af-4713-bc24-a89ea6721931" />
+
