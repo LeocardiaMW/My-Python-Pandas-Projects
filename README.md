@@ -70,6 +70,8 @@ df.loc[df["Region"] == "North", ["Product", "Sales"]]
 
 This enabled efficient retrieval of relevant records and columns for reporting and investigation.
 
+### ✨📸 example:
+
 <img width="857" height="122" alt="image" src="https://github.com/user-attachments/assets/bf8dd9cd-5926-4843-99e8-4940f5f06d3d" />
 
 
@@ -249,7 +251,7 @@ These findings demonstrated how Pandas can be used to support operational and st
 
 This Python Pandas project strengthened my ability to work with real-world retail and sales data throughout the complete analytics lifecycle. By using filtering techniques, `.loc[]` and `.iloc[]` indexing, aggregation methods such as `groupby()`, data cleaning functions including `dropna()` and `fillna()`, and data visualizations with Pandas and Matplotlib, I gained practical experience in transforming raw data into meaningful insights and reports. The project provided a solid foundation in data analysis, data preparation, and business intelligence using Python.
 
-## Examples of codes and outputs
+## ✨📸 Examples of codes and outputs
 
 <img width="874" height="240" alt="image" src="https://github.com/user-attachments/assets/d96d2783-cb0a-4d93-bb22-d15660356d67" />
 
